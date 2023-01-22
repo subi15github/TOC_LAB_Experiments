@@ -38,9 +38,9 @@
 ## Experiment-18:<br/>
 > <img width="960" alt="Exp-18" src="https://user-images.githubusercontent.com/113248863/212127622-ca531bd4-a2b4-4f8c-8a67-60cbad5e72f4.png"><br/>
 ## Experiment-19:<br/>
-> <img width="960" alt="Exp-19" src="https://user-images.githubusercontent.com/113248863/212131554-ec23468d-56a6-4e2e-9bf6-098e7ab89cd4.png"><br/>
+> <img width="960" alt="Exp-19" src="https://user-images.githubusercontent.com/113248863/213928198-37714e45-0aa5-4f33-9c90-24858f9abb19.png"><br/>
 ## Experiment-20:<br/>
-> 
+> <img width="960" alt="Exp-20" src="https://user-images.githubusercontent.com/113248863/213928228-ffa4d9f1-cfbe-4bf5-a497-83ba07c44ec4.png"><br/>
 ## Experiment-21:<br/>
 > <img width="960" alt="Exp-21" src="https://user-images.githubusercontent.com/113248863/212128673-56cec74d-f9f0-4da8-9d47-03759e168c6a.png"><br/>
 ## Experiment-22:<br/>
