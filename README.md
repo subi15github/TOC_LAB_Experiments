@@ -10,9 +10,10 @@
 ## Experiment-5:<br/>
 > ![image](https://user-images.githubusercontent.com/113248863/213917221-76417051-428b-4e02-acf2-69ff9af6f968.png)<br/>
 ## Experiment-6:<br/>
-> 
+> ![image](https://user-images.githubusercontent.com/113248863/213917559-5618f3d6-d250-4a62-a04b-056e1ec57fa6.png)<br/>
 ## Experiment-7:<br/>
->
+> ![image](https://user-images.githubusercontent.com/113248863/213917601-e8cff2ee-b6ba-4e5f-a64f-0925ac5096a8.png)<br/>
+
 ## Experiment-8:<br/>
 >
 ## Experiment-9:<br/>
