@@ -2,7 +2,8 @@
 ## Experiment-1:<br/>
 > ![image](https://user-images.githubusercontent.com/113248863/212133962-c52afa3f-252a-4ac6-959f-905865d5a4ef.png)<br/>
 ## Experiment-2:<br/>
-> 
+> ![image](https://user-images.githubusercontent.com/113248863/213914874-a3ab9f8d-6779-4c5c-8a1a-4cd32e9ce04e.png)<br/>
+
 ## Experiment-12:<br/>
 > <img width="960" alt="Exp-12" src="https://user-images.githubusercontent.com/113248863/212126619-c56f429e-3046-4a65-a40c-61eb43146585.png"><br/>
 ## Experiment-13:<br/>
