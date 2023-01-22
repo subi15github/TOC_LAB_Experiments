@@ -8,7 +8,7 @@
 ## Experiment-4:<br/>
 > ![image](https://user-images.githubusercontent.com/113248863/213916974-028d7ee4-bae3-4e69-84b3-91be9c1fe504.png)<br/>
 ## Experiment-5:<br/>
->
+> ![image](https://user-images.githubusercontent.com/113248863/213917221-76417051-428b-4e02-acf2-69ff9af6f968.png)<br/>
 ## Experiment-6:<br/>
 > 
 ## Experiment-7:<br/>
