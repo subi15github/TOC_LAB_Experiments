@@ -4,13 +4,13 @@
 ## Experiment-2:<br/>
 > ![image](https://user-images.githubusercontent.com/113248863/213914874-a3ab9f8d-6779-4c5c-8a1a-4cd32e9ce04e.png)<br/>
 ## Experiment-3:<br/>
->
+> ![image](https://user-images.githubusercontent.com/113248863/213917028-73302216-9c03-410e-aea2-5dbf2e33b6f7.png)<br/>
 ## Experiment-4:<br/>
->
+> ![image](https://user-images.githubusercontent.com/113248863/213916974-028d7ee4-bae3-4e69-84b3-91be9c1fe504.png)<br/>
 ## Experiment-5:<br/>
 >
 ## Experiment-6:<br/>
->
+> 
 ## Experiment-7:<br/>
 >
 ## Experiment-8:<br/>
