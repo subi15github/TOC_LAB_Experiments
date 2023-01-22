@@ -26,8 +26,9 @@
 ## Experiment-12:<br/>
 > <img width="960" alt="Exp-12" src="https://user-images.githubusercontent.com/113248863/212126619-c56f429e-3046-4a65-a40c-61eb43146585.png"><br/>
 ## Experiment-13:<br/>
->
+> <img width="956" alt="Exp-13" src="https://user-images.githubusercontent.com/113248863/213926301-478a622a-9b8e-4d14-b719-3a5e87268412.png"><br/>
 ## Experiment-14:<br/>
+> <img width="960" alt="Exp-14" src="https://user-images.githubusercontent.com/113248863/213926325-d3b41a2b-7a5c-4f85-9c86-af841b1d5cba.png"><br/>
 ## Experiment-15:<br/>
 > <img width="960" alt="Ex-15" src="https://user-images.githubusercontent.com/113248863/212127272-cdff315c-f14b-42d1-9afe-854966c80920.png"><br/>
 ## Experiment-16:<br/>
