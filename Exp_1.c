@@ -3,7 +3,7 @@
 #define max 10
 int main()
 {
-    int transition_table[4][2]={{1,3},{1,2},{1,2},{3,3}};
+    int transition_table[4][2]={{1,3},{1,2},{1,2},{3,4}};
     int initial_state=0,i=0,j,k;
     int final_state=2;
     int current_state=0;
